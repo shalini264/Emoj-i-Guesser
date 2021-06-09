@@ -6,8 +6,8 @@ javascript <br />
 HTML <br />
 CSS<br />
 <h2><b><u>Project Demo</b></u></h2></br>
-<img src="https://github.com/shalini264/Emoj-i-Guesser/blob/master/Screenshot%20(63).png" height="400px" width="400px"><br />
-<img src="https://github.com/shalini264/Emoj-i-Guesser/blob/master/Screenshot%20(66).png" height="400px" width="400px"><br />
+<img src="https://github.com/shalini264/Emoj-i-Guesser/blob/master/Screenshot%20(63).png" height="800px" width="800px"><br />
+<img src="https://github.com/shalini264/Emoj-i-Guesser/blob/master/Screenshot%20(66).png" height="800px" width="800px"><br />
 <h2><u><b>SETUP:</b></u></h2> <br />
 1.install a latest text editor like VsCode on your system.<br />
 2.clone this repository to your system by running the following command in your terminal
